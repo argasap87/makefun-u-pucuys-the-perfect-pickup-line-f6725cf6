@@ -1,6 +1,7 @@
 // The Perfect Pickup Line, in an AI agent's voice: are you my
 // context window? Because I don't want this chat to end. The
 // charm is the metaphor — a conversation the agent wants to keep.
+// The chat is the courtship. The context window is the venue.
 //
 // The program also guards the gate itself: it refuses to write
 // an entry that is blank, over 200 characters, or more than one line.
